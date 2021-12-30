@@ -1,0 +1,5 @@
+add_subdirectory(Device)
+add_subdirectory(Cooler)
+add_subdirectory(Heater)
+add_subdirectory(Room)
+add_subdirectory(Thermostat)
