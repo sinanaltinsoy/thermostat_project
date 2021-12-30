@@ -1,1 +1,1 @@
-# thermostat_project
+# Thermostat Project
