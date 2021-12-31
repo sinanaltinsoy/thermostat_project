@@ -78,8 +78,6 @@ using namespace std;
 
 int main()
 {
-    cout << "START" << endl;
-
     float initRealTemp = 18;
     float initThermostatMinTemp = 5;
     float initThermostatMaxTemp = 30;
@@ -103,18 +101,30 @@ int main()
 
     _room->setThermostatMode(true);
     _room->setThermostatAdjustableTemp(5, 30);
-    //while(1)
-    {
+
+    _thermostat->work();
+
+    float newRoomTemp = -10;
+
+    cout << "--- Room Simulation Start ---" << endl;
+
+    while(1)
+    { 
+        _room->setRoomTemp(newRoomTemp);
+        cout << "Room Temp: " << _room->getRoomTemp() << endl;   
+
         _thermostat->work();
-    }    
 
-    _room->setRoomTemp(24);
+        newRoomTemp++;
 
-    float checkRoomTemp;
-    checkRoomTemp = _room->getRoomTemp();
+        if(newRoomTemp == 45)
+        {
+            break;
+        }
+    } 
 
-    cout << "Room Temp: " << checkRoomTemp << endl;
-    
+    cout << "--- Room Simulation End ---" << endl;   
+
     delete _thermostat;
     delete _room;
     return 0;

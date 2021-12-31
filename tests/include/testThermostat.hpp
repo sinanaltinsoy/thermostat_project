@@ -128,4 +128,4 @@ void ThermostatTestFixture::ReadThermostat()
                                    &isThermostatCooling);
 }
 
-#endif /* Config_hpp */
+#endif /* testThermostat_hpp */
