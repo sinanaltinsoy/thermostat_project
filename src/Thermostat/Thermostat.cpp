@@ -1,9 +1,5 @@
 #include "Thermostat.hpp"
 
-//TODO DEL BELOW 
-#include <iostream>
-using namespace std;
-
 Thermostat::Thermostat(Room *room,
                        float minThermostatWorkingTemp, 
                        float maxThermostatWorkingTemp, 
