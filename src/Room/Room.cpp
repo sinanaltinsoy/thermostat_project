@@ -1,3 +1,11 @@
+//
+//  Room.cpp
+//  Room
+//
+//  Created by Sinan Altinsoy on 23/12/21.
+//  Copyright © 2021 Sinan Altinsoy. All rights reserved.
+//
+
 #include "Room.hpp"
 
 Room::Room(float initRealTemp, float initThermostatMinTemp, float initThermostatMaxTemp)

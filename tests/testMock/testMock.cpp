@@ -46,7 +46,7 @@ TEST_F(ThermostatTestFixture, TestInitValuesTest)
     ASSERT_FALSE(isThermostatHeating);
     ASSERT_FALSE(isThermostatCooling);
     ASSERT_EQ(INITIAL_REAL_TEMP, thermostatTemp);
-    //ASSERT_EQ(0xFFFF, thermostatTargetTemp); //TODO
+    ASSERT_EQ(0xFFFF, thermostatTargetTemp); 
     ASSERT_EQ(INITIAL_THERMOSTAT_TARGET_LOW_TEMP, thermostatMinTemp);
     ASSERT_EQ(INITIAL_THERMOSTAT_TARGET_HIGH_TEMP, thermostatMaxTemp);
 }
@@ -67,7 +67,7 @@ TEST_F(ThermostatTestFixture, TestNewModeSet)
     ASSERT_FALSE(isThermostatHeating);
     ASSERT_FALSE(isThermostatCooling);
     ASSERT_EQ(INITIAL_REAL_TEMP, thermostatTemp);
-    //ASSERT_EQ(0xFFFF, thermostatTargetTemp); //TODO
+    ASSERT_EQ(0xFFFF, thermostatTargetTemp);
     ASSERT_EQ(INITIAL_THERMOSTAT_TARGET_LOW_TEMP, thermostatMinTemp);
     ASSERT_EQ(INITIAL_THERMOSTAT_TARGET_HIGH_TEMP, thermostatMaxTemp);
 }
@@ -102,7 +102,7 @@ TEST_F(ThermostatTestFixture, TestNewAdjustableTempsSet)
     ASSERT_FALSE(isThermostatHeating);
     ASSERT_FALSE(isThermostatCooling);
     ASSERT_EQ(INITIAL_REAL_TEMP, thermostatTemp);
-    //ASSERT_EQ(0xFFFF, thermostatTargetTemp); //TODO
+    ASSERT_EQ(0xFFFF, thermostatTargetTemp);
     ASSERT_EQ(5, thermostatMinTemp);
     ASSERT_EQ(30, thermostatMaxTemp);
 }
@@ -184,7 +184,6 @@ TEST_F(ThermostatTestFixture, TestStartHeating)
 
 TEST_F(ThermostatTestFixture, TestStartCooling)
 {
-    // Thermostat ON
     EXPECT_CALL(*_mockRoom, thermostatTargetTempChanged());
     EXPECT_CALL(*_mockRoom, thermostatAdjustableTempsChanged());
     EXPECT_CALL(*_mockRoom, thermostatModeChanged());
@@ -256,11 +255,15 @@ TEST_F(ThermostatTestFixture, TestHeatUntilToTarget)
         }
         else if(i == 3000)
         {
+            _mockRoom->setRoomTemp(5.1); // STEADY STATE
+        }
+        else if(i == 4000)
+        {
             _mockRoom->setRoomTemp(5); // STEADY STATE
         }
         else
         {
-
+            //DO NOTHING
         }
     }
 }
@@ -299,11 +302,15 @@ TEST_F(ThermostatTestFixture, TestCoolUntilToTarget)
         }
         else if(i == 3000)
         {
+            _mockRoom->setRoomTemp(29.9); // STEADY STATE
+        }
+        else if(i == 4000)
+        {
             _mockRoom->setRoomTemp(30); // STEADY STATE
         }
         else
         {
-
+            //DO NOTHING
         }
     }
 }

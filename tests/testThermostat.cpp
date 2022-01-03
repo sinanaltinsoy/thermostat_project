@@ -1,5 +1,6 @@
 #include "testMock/testMock.cpp"
 #include "testParameterized/testParameterized.cpp"
+#include "testRunTimeErrors/testRunTimeErrors.cpp"
 
 int main(int argc, char **argv)
 {

@@ -12,18 +12,23 @@
 #include <math.h>
 #include <iostream>
 #include <stdbool.h>
+#include <stdexcept>
 
-#define FIXED_POINT_OFFSET           40//TODO (0 - THERMOSTAT_MIN_WORKING_TEMP)
-#define FIXED_POINT_INDEX            10
+#define THERMOSTAT_MIN_WORKING_TEMP_LIMIT -40.0
+#define THERMOSTAT_MAX_WORKING_TEMP_LIMIT  40.0
+#define COOLER_MIN_WORKING_TEMP_LIMIT  -18.0
+#define COOLER_MAX_WORKING_TEMP_LIMIT   40.0
+#define HEATER_MIN_WORKING_TEMP_LIMIT  -40.0
+#define HEATER_MAX_WORKING_TEMP_LIMIT   30.0
 
-inline int floatToFixedPoint(float Temp)
+inline int floatToFixedPoint(float temp, float fixedPointOffset, float fixedPointIndex)
 {
-    return (int)roundf((float)FIXED_POINT_INDEX * (Temp + (float)FIXED_POINT_OFFSET));
+    return (int)roundf(fixedPointIndex * (temp + fixedPointOffset));
 }  
 
-inline float fixedPointToFloat(int TempFixed)
+inline float fixedPointToFloat(int tempFixed, float fixedPointOffset, float fixedPointIndex)
 {
-    return ((float)TempFixed / (float)FIXED_POINT_INDEX) - (float)FIXED_POINT_OFFSET;
+    return ((float)tempFixed / fixedPointIndex - fixedPointOffset);
 }
 
 #endif /* Config_hpp */

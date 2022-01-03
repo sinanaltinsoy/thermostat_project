@@ -14,6 +14,9 @@
 #include "Cooler.hpp"
 #include "Heater.hpp"
 #include "Room.hpp"
+#include <iostream>
+
+using namespace std;
 
 class Thermostat : public Device
 {
@@ -30,6 +33,8 @@ private:
     Room *_room;
     Cooler *_cooler;
     Heater *_heater;
+    float fixedPointOffset;
+    float fixedPointIndex;
     int EnvironmentTemp;
     int targetLowTemp;
     int targetHighTemp;

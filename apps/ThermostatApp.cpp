@@ -1,3 +1,11 @@
+//
+//  ThermostatApp.cpp
+//  ThermostatApp
+//
+//  Created by Sinan Altinsoy on 23/12/21.
+//  Copyright © 2021 Sinan Altinsoy. All rights reserved.
+//
+
 #include <iostream>
 #include "RoomApp.hpp"
 #include "Thermostat.hpp"
@@ -14,7 +22,7 @@ int main()
     float coolerMinWorkingTemp = -18;
     float coolerMaxWorkingTemp = 40;
     float heaterMinWorkingTemp = -40;
-    float heaterMaxWorkingTemp = 40;
+    float heaterMaxWorkingTemp = 30;
 
     RoomApp *_room = new RoomApp(initRealTemp, initThermostatMinTemp, initThermostatMaxTemp);
 

@@ -22,7 +22,7 @@
 
 /* HEATER CONFIG */
 #define HEATER_MIN_WORKING_TEMP      (-40)
-#define HEATER_MAX_WORKING_TEMP      40
+#define HEATER_MAX_WORKING_TEMP      30
 
 /* COOLER CONFIG */
 #define COOLER_MIN_WORKING_TEMP      (-18)
@@ -58,7 +58,7 @@ public:
 };
 
 class ThermostatTestFixture : public testing::Test,
-                              public testing::WithParamInterface<float> 
+                              public testing::WithParamInterface<double> 
 {
 public:
     void SetUp() override;
@@ -100,21 +100,6 @@ void ThermostatTestFixture::TearDown()
 
     delete _thermostat;
     delete _mockRoom;
-}
-
-void ThermostatTestFixture::ThermostatOn()
-{
-    //TODO
-    // Thermostat ON
-    EXPECT_CALL(*_mockRoom, thermostatTargetTempChanged());
-    EXPECT_CALL(*_mockRoom, thermostatAdjustableTempsChanged());
-    EXPECT_CALL(*_mockRoom, thermostatModeChanged());
-    EXPECT_CALL(*_mockRoom, tempSteady());
-    
-    _mockRoom->setThermostatMode(true);
-    _mockRoom->setThermostatAdjustableTemp(5, 30);
-
-    _thermostat->work();
 }
 
 void ThermostatTestFixture::ReadThermostat()
