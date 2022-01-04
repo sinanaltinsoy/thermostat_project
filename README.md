@@ -12,6 +12,8 @@ Operations such as turning on and off the thermostat or setting the adjustable m
 
 After the Thermostat library was designed, a Demo application named ThermostatApp was created using this library. The class diagram of this demo application is given below.
 
+![alt text](https://github.com/sinanaltinsoy/thermostatproject/blob/main/docs/ThermostatAppClassDiagram.png?raw=true)
+
 The test cases to test the Thermostat library were created by mocking the Room class. In these test cases, 4 different test suites were used. Test cases are given below.
 
 As a result of these test cases, 226 tests were performed and no errors were found.
