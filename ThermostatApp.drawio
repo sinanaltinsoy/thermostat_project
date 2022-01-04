@@ -1,1 +1,210 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T05:21:56.478Z" agent="5.0 (Macintosh)" etag="zghCx4L0rYBAeWOF0-Oo" version="15.9.1" type="github"><diagram id="HCEK-mUut7Bq4rJanurv" name="Class Dependencey">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-04T05:24:08.780Z" agent="5.0 (Macintosh)" etag="rZK908OwieRYEOG1UT0j" version="15.9.1" type="github">
+  <diagram id="HCEK-mUut7Bq4rJanurv" name="Class Dependencey">
+    <mxGraphModel dx="1825" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-1" value="Device&#xa;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="280" height="190" as="geometry">
+            <mxRectangle x="400" y="40" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-2" value="- _status: Status&#xa;# targetTemp: int&#xa;# maxWorkingTemp: int&#xa;# minWorkingTemp: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-1" vertex="1">
+          <mxGeometry y="26" width="280" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-1" vertex="1">
+          <mxGeometry y="90" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-4" value="+ Device()&#xa;+ ~Device()&#xa;# setStatus(status: Status): void&#xa;# setStandbyMode(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Q4OX1yO6Y7r2aKk7Ml1x-1" vertex="1">
+          <mxGeometry y="98" width="280" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-43" value="# set(target: int, newStatus: Status): int&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" parent="Q4OX1yO6Y7r2aKk7Ml1x-1" vertex="1">
+          <mxGeometry y="160" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="300" />
+              <mxPoint x="540" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-7" value="Heater&#xa;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="530" width="280" height="140" as="geometry">
+            <mxRectangle x="170" y="100" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-7" vertex="1">
+          <mxGeometry y="26" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-10" value="- setHeatingMode(): void  &#xa;+ Heater(maxTemp: int, &#xa;         minTemp: int, &#xa;         initialTarget: int)&#xa;+ ~Heater()&#xa;+ set(target: int, &#xa;          newStatus: Device::Status): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-7" vertex="1">
+          <mxGeometry y="34" width="280" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="300" />
+              <mxPoint x="540" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-15" value="Thermostat" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="350" width="280" height="440" as="geometry">
+            <mxRectangle x="170" y="100" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-16" value="- _room: Room*&#xa;- _cooler: Cooler*&#xa;- _heater: Heater*&#xa;- fixedPointOffset: float&#xa;- fixedPointIndex: float&#xa;- EnvironmentTemp: int&#xa;- int targetLowTemp: int&#xa;- int targetHighTemp: int&#xa;- int targetHeaterTemp: int&#xa;- int targetCoolerTemp: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-15" vertex="1">
+          <mxGeometry y="26" width="280" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-15" vertex="1">
+          <mxGeometry y="170" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-18" value="+ Thermostat(room: Room*,&#xa;             float minThermostatWorkingTemp: float,&#xa;             float maxThermostatWorkingTemp: float,&#xa;             float minCoolerWorkingTemp: float,&#xa;             float maxCoolerWorkingTemp: float,&#xa;             float minHeaterWorkingTemp: float,&#xa;             float maxHeaterWorkingTemp: float)&#xa;+ ~Thermostat()&#xa;+ work(): void&#xa;- getSubStatus(): Device::Status&#xa;- int set(target: int, newStatus: Status): int&#xa;- setCoolingMode(): void&#xa;- setHeatingMode(): void&#xa;- void setAutoMode(): void&#xa;- isSetNeeded(): SetModeState&#xa;- setMode(isAutoMode: bool): void&#xa;- setAdjustableTemp(targetLow: int, targetHigh: int): void&#xa;- getData(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-15" vertex="1">
+          <mxGeometry y="178" width="280" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-19" value="Room" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="38" width="280" height="750" as="geometry">
+            <mxRectangle x="170" y="100" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-20" value="- realTemp: float&#xa;- thermostatMinTempSet: float&#xa;- thermostatMaxTempSet: float&#xa;- isThermostatAutoModeSet: bool&#xa;- thermostatTemp: float&#xa;- thermostatTargetTemp: float&#xa;- thermostatMinTemp: float&#xa;- thermostatMaxTemp: float&#xa;- isThermostatAutoMode: bool&#xa;- isThermostatHeating: bool&#xa;- isThermostatCooling: bool&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-19" vertex="1">
+          <mxGeometry y="26" width="280" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-19" vertex="1">
+          <mxGeometry y="190" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-22" value="+ Room(initRealTemp: float, &#xa;       initThermostatMinTemp: float, &#xa;       initThermostatMaxTemp: float)&#xa;+ ~Room()&#xa;+ setRoomTemp(Temp: float): void&#xa;+ getRoomTemp(): float  &#xa;+ setThermostatValues(readTempVal: float&#xa;                      targetTempVal: float&#xa;                      minTempVal: float&#xa;                      maxTempVal: float&#xa;                      isThermostatWork: bool&#xa;                      isThermostatHeat: bool&#xa;                      isThermostatCool: bool): void&#xa;+ getThermostatValues(readTempVal: float*, &#xa;                      targetTempVal: float*, &#xa;                      minTempVal: float*, &#xa;                      maxTempVal: float*, &#xa;                      isThermostatWork: bool*, &#xa;                      isThermostatHeat: bool*, &#xa;                      isThermostatCool: bool*): void&#xa;+ setThermostatAdjustableTemp(min: float, &#xa;                              max: float): void   &#xa;+ void getThermostatAdjustableTemp(min: float*, &#xa;                                   max: float*)&#xa;+ void setThermostatMode(isAutoMode: bool)&#xa;+ bool getThermostatMode(): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Q4OX1yO6Y7r2aKk7Ml1x-19" vertex="1">
+          <mxGeometry y="198" width="280" height="372" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-41" value="+ thermostatConnect(): void&#xa;+ thermostatDisconnect(): void&#xa;+ tempHeating(): void&#xa;+ tempCooling(): void&#xa;+ tempSteady(): void&#xa;+ startHeating(): void&#xa;+ startCooling(): void&#xa;+ startSteady(): void&#xa;+ thermostatSleep(): void&#xa;+ thermostatModeChanged(): void&#xa;+ thermostatAdjustableTempsChanged(): void&#xa;+ thermostatTargetTempChanged(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" parent="Q4OX1yO6Y7r2aKk7Ml1x-19" vertex="1">
+          <mxGeometry y="570" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="723" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="947" />
+              <mxPoint x="500" y="947" />
+              <mxPoint x="500" y="723" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-26" target="Q4OX1yO6Y7r2aKk7Ml1x-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="1029" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-23" value="ThermostatApp" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="910" width="280" height="170" as="geometry">
+            <mxRectangle x="170" y="100" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-24" value="- _roomApp: RoomApp*&#xa;- _thermostat: Thermostat*&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-23" vertex="1">
+          <mxGeometry y="26" width="280" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-23" vertex="1">
+          <mxGeometry y="70" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-26" value="+ ThermostatApp()&#xa;+ ~ThermostatApp()&#xa;+ setMode(isAutoMode: bool): void&#xa;+setAdjustableTemp(ThermostatMinTemp: float, &#xa;                                  ThermostatMaxTemp: float)+ getRoomTemp(): float&#xa;+ simulation(newRoomTemp: float): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-23" vertex="1">
+          <mxGeometry y="78" width="280" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1470" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1470" y="830" />
+              <mxPoint x="1470" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-27" value="RoomApp" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="910" width="280" height="214" as="geometry">
+            <mxRectangle x="170" y="100" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-29" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-27" vertex="1">
+          <mxGeometry y="26" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-30" value="+ thermostatConnect(): void&#xa;+ thermostatDisconnect(): void&#xa;+ tempHeating(): void&#xa;+ tempCooling(): void&#xa;+ tempSteady(): void&#xa;+ startHeating(): void&#xa;+ startCooling(): void&#xa;+ startSteady(): void&#xa;+ thermostatSleep(): void&#xa;+ thermostatModeChanged(): void&#xa;+ thermostatAdjustableTempsChanged(): void&#xa;+ thermostatTargetTempChanged(): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" parent="Q4OX1yO6Y7r2aKk7Ml1x-27" vertex="1">
+          <mxGeometry y="34" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-33" target="Q4OX1yO6Y7r2aKk7Ml1x-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="260" />
+              <mxPoint x="540" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-33" value="Cooler " style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="280" height="140" as="geometry">
+            <mxRectangle x="170" y="100" width="100" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-33" vertex="1">
+          <mxGeometry y="26" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-35" value="- setCoolingMode(): void &#xa;+ Cooler(maxTemp: int, &#xa;         minTemp: int, &#xa;         initialTarget: int)&#xa;+ ~Cooler()&#xa;+ int set(target: int, &#xa;          newStatus: Device::Status): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-33" vertex="1">
+          <mxGeometry y="34" width="280" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-82" value="" style="group;align=center;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1120" y="350" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-63" value="&lt;div align=&quot;center&quot;&gt;«enumeration»&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;SetModeState&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;NoSet&lt;br&gt;AdjustableValuesSet&lt;br&gt;ModeSet&lt;br&gt;AllValuesSet&lt;br&gt;Error&lt;br&gt;&lt;/div&gt;" style="html=1;align=center;" parent="Q4OX1yO6Y7r2aKk7Ml1x-82" vertex="1">
+          <mxGeometry width="129.99828947368417" height="119.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-65" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-82" vertex="1">
+          <mxGeometry y="30.003599165668035" width="130" height="15.621532862912174" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-83" value="" style="group;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="220" y="38" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-89" value="" style="group" parent="Q4OX1yO6Y7r2aKk7Ml1x-83" vertex="1" connectable="0">
+          <mxGeometry x="-30" width="130" height="119.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-84" value="&lt;div align=&quot;center&quot;&gt;«enumeration»&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;Status&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Standby&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Heating&lt;br&gt;Cooling&lt;br&gt;Auto&lt;br&gt;Error&lt;/div&gt;" style="html=1;align=center;" parent="Q4OX1yO6Y7r2aKk7Ml1x-89" vertex="1">
+          <mxGeometry width="129.99828947368417" height="119.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-85" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="Q4OX1yO6Y7r2aKk7Ml1x-89" vertex="1">
+          <mxGeometry y="30.003599165668035" width="130" height="15.621532862912174" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-84" target="Q4OX1yO6Y7r2aKk7Ml1x-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-95" value="&lt;div&gt;_heater&lt;/div&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Q4OX1yO6Y7r2aKk7Ml1x-10" edge="1">
+          <mxGeometry x="0.8235" relative="1" as="geometry">
+            <mxPoint x="760" y="617" as="sourcePoint" />
+            <mxPoint x="690" y="530" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-97" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Q4OX1yO6Y7r2aKk7Ml1x-95" vertex="1" connectable="0">
+          <mxGeometry x="0.5827" y="3" relative="1" as="geometry">
+            <mxPoint x="-63" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-98" value="&lt;div&gt;_cooler&lt;br&gt;&lt;/div&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;rounded=0;exitX=-0.002;exitY=0.481;exitDx=0;exitDy=0;entryX=1.002;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-16" target="Q4OX1yO6Y7r2aKk7Ml1x-35" edge="1">
+          <mxGeometry x="0.2568" y="-9" relative="1" as="geometry">
+            <mxPoint x="770" y="627" as="sourcePoint" />
+            <mxPoint x="680" y="447" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-99" value="*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Q4OX1yO6Y7r2aKk7Ml1x-98" vertex="1" connectable="0">
+          <mxGeometry x="0.5827" y="3" relative="1" as="geometry">
+            <mxPoint x="-7" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.006;entryY=0.231;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-63" target="Q4OX1yO6Y7r2aKk7Ml1x-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4OX1yO6Y7r2aKk7Ml1x-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.281;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Q4OX1yO6Y7r2aKk7Ml1x-18" target="Q4OX1yO6Y7r2aKk7Ml1x-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
