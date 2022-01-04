@@ -15,7 +15,7 @@ Device::Status Device::getStatus()
     return _status;
 }
 
-void Device::setStatus(const Status status)
+void Device::setStatus(Status status)
 {
     _status = status;
 }

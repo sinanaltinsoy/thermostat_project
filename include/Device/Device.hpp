@@ -29,7 +29,7 @@ protected:
     int targetTemp;
     int maxWorkingTemp;
     int minWorkingTemp;
-    void setStatus(const Status status);      
+    void setStatus(Status status);      
     void setStandbyMode();
     virtual int set(int target, Status newStatus) = 0;
 };
