@@ -32,4 +32,6 @@ int Cooler::set(int target, Device::Status newStatus)
     {
         setStandbyMode();
     }  
+
+    return 0;
 }
