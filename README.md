@@ -17,7 +17,7 @@ After the Thermostat library was designed, a Demo application named ThermostatAp
 ![alt text](https://github.com/sinanaltinsoy/thermostatproject/blob/main/docs/ThermostatAppClassDiagram.png?raw=true)
 Figure 1: Project Class Diagram
 
-The test cases to test the Thermostat library were created by mocking the Room class. In these test cases, 4 different test suites were used. Test cases are given below.
+The test cases to test the Thermostat library were created by mocking the Room class. In these test cases, 4 different test suites were used. 
 
 As a result of these test cases, 226 tests were performed and no errors were found.
 
